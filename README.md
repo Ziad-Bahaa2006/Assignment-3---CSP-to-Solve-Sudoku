@@ -17,15 +17,6 @@ The solver first applies **⚡ AC-3** to reduce domains and detect conflicts ear
 
 ---
 
-## 📁 Project Structure
-📦 Sudoku-CSP
-├── 🧠 SudokuCSP.py # CSP model, AC-3, consistency & backtracking
-├── 🎲 backtracking_generator.py # Board & puzzle generator (Easy / Medium / Hard)
-├── 🖥️ gui.py # Tkinter GUI with validation & solver
-└── 📘 README.md
-
----
-
 ## ✨ Features
 ✅ **Sudoku Generator**
 - 🎯 Three difficulty levels: 🟢 Easy | 🟡 Medium | 🔴 Hard  
