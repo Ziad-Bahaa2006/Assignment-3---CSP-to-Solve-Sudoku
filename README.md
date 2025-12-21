@@ -54,8 +54,10 @@ The solver first applies **⚡ AC-3** to reduce domains and detect conflicts ear
 
 ▶️ **Steps**
 
-git clone https:(https://github.com/Ziad-Bahaa2006/Assignment-3---CSP-to-Solve-Sudoku)
-cd Sudoku-CSP
+git clone https:(https://github.com/Ziad-Bahaa2006/Assignment-3---CSP-to-Solve-Sudoku)  
+
+cd Sudoku-CSP  
+
 python gui.py
 
 ---
@@ -79,9 +81,9 @@ python gui.py
 ---
 
 ## 🚧 Future Improvements
-🚀 Solution uniqueness detection  
-🎞️ Animated solving visualization  
-📊 Performance & time analysis  
+🚀 Solution uniqueness detection   
+🎞️ Animated solving visualization   
+📊 Performance & time analysis    
 📁 Export puzzles & solutions  
 
 ---
